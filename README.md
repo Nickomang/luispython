@@ -108,7 +108,7 @@ Example utterances:
 
 Now that we have sample utterances and patterns, we can train our model.
 
-1.  In the top right side of the LUIS website, select the Train button.
+1.  In the top right side of the LUIS website, select the **Train** button.
 
 2.  Training is complete when you see the green status bar at the top of the website confirming success.
 
