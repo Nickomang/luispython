@@ -17,7 +17,7 @@ If you would like to run the sample, simply clone the repository and run the fol
     python client.py
 ```
 
-# Step 1\. Creating our Model
+# 1\. Creating our Model
 
 ## Creating a new app
 
